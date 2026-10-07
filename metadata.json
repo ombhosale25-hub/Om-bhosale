@@ -1,0 +1,6 @@
+{
+  "name": "Smart Screen Time Manager",
+  "description": "Monitor digital habits, set customizable daily limits, track app usage, take mindful breaks, and boost productivity with integrated focus sessions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
